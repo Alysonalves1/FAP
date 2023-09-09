@@ -1,14 +1,14 @@
-var v_ou_f;
+var v_ou_f;
 
 
 v_ou_f = window.prompt('Seu transporte possui 2 rodas?');
 if (v_ou_f == 'sim') {
   v_ou_f = window.prompt('possui pedal?');
   if (v_ou_f == 'sim') {
-    window.alert('seu transporte é uma bicicleta.');
+    window.alert('seu transporte ï¿½ uma bicicleta.');
   } else {
-    window.alert('seu transporte é uma moto.');
+    window.alert('seu transporte ï¿½ uma moto.');
   }
 } else {
-  window.alert('seu transporte é uma trator.');
+  window.alert('seu transporte ï¿½ uma trator.');
 }
