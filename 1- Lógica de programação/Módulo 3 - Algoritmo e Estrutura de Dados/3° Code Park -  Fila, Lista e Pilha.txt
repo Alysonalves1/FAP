@@ -1,0 +1,11 @@
+var array = [3, 7, 9, 1, 0];
+
+seguencia a serem removidos
+Fila: 3, 7, 9, 1, 0
+utilizando array.shift()
+
+A seguencia da saida da Lista fica a criterio do usuario, pois não possui uma ordem específica.
+.splice(indice, 1)
+
+Pilha: 0, 1, 9, 7, 3
+utilizando array.pop()
